@@ -4,7 +4,7 @@ TowerDefense game made with unity 2019 for GQW
 
 # Windows/Mac/LINUX game
 
-Inside the master branch, Open the GAME folder find the file Tower Defense.exe and run! 
+Download and open the GAME folder find the file Tower Defense.exe and run! 
 
 # Android game
 
